@@ -1,4 +1,4 @@
-# RunCatRun
+# RunCatRun🐈🎮
 with Kaan Çakal(https://github.com/elcrosG)
 
 We had to develop a social responsibility project for the ART265 course. It was made in 3 days using Unity game engine and free assets for 3D models.
